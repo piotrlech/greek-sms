@@ -1,0 +1,7 @@
+{  
+  "name": "Greek SMS",  
+  "short_name": "gSMS",  
+  "start_url": "/",  
+  "display": "standalone",
+  "gcm_sender_id": "653317226797"
+}
